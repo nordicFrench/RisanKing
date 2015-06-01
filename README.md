@@ -64,32 +64,32 @@ We have gathered some sprites, tiles and a bit of a soundtrack.
  
 ## VI) FAQ
 
-1. Are there various key locations you need to reach to secure the alliances?
+* 1. Are there various key locations you need to reach to secure the alliances?
 
 Yes: Paris, Brittany, Rome, western Germany/eastern Gaul and south west of Gaul
  
-2. On the way between each of them there are various hazards (wandering bandits?)
+* 2. On the way between each of them there are various hazards (wandering bandits?)
 
 Yes, bandits and even whole tribes/ armies of hostile people who will later on side completely with the Huns.
  
-3. Perhaps the NPCs will require something to convince them to go along with the alliance,
+* 3. Perhaps the NPCs will require something to convince them to go along with the alliance,
 
 Yes, usually, money, reputations, sometimes politics as in we will have to help some people by doing their quests and being helpful in dialogues.
  
-4. Is there some opposing force?
+* 4. Is there some opposing force?
 
 Yes, the opposing force is pretty strong. Attila has never been defeated before the end of the game, history wise. And he has strong allies.
  
-5. what characters can we expect to see in the game?
+* 5. what characters can we expect to see in the game?
 
 "Good" Characters: Aetius, Merovech, Theodoric
  
 "Evil" Characters: Attila
  
-6. what is interesting about the time setting?
+* 6. what is interesting about the time setting?
 
 What's really interesting about the time is the interplay of different worlds. There's the world of Greco-Roman pagan religion, highly civilised but decadent. There's the barbaric pagan beliefs of Germanics, Celts, or Huns. Then there's the world of the new Eastern religions, not just Christianity but also Zoroastrianism, Talmudic Judaism, Manichaeism, Monophysitism, the cult of Isis, the cult of Cybele, the cult of the Emperor, Sol Invictus... which are all rivals but all share the same world view, a strong sense of good and evil as two battling forces, with a single God representing good, and above all a sense of impending doom, an apocalypse that will wash away the evil decadent world and allow the kingdom of God to be born. This is the feeling that most people shared, the question was which of the gods would triumph. But the cool thing is that it turned out to be literally true, the end of the old world really did happen, so reality and myth correspond really well.
  
-7. What combat system will be used?
+* 7. What combat system will be used?
 
 This will be detailed in the game design but an interesting opportunity might be to use the D&D D20 system which is licensed under the Open Gaming License.
