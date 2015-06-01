@@ -1,6 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[System.Serializable]
+public class Boundary {
+    public float xMin, xMax, yMin, yMax;
+}
+
 public class PlayerMovement : MonoBehaviour {
 
     private Transform myTransform;
@@ -8,7 +13,9 @@ public class PlayerMovement : MonoBehaviour {
 
     private Rigidbody2D body;
 
-    public float speed = 1f;
+    public float speed;
+    public float tilt;
+    public Boundary boundary;
 
 	// Use this for initialization
 	void Start () {
@@ -18,7 +25,7 @@ public class PlayerMovement : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
         float xa = 0;
         float ya = 0;
         if (Input.GetKey(KeyCode.UpArrow)) {
@@ -34,10 +41,17 @@ public class PlayerMovement : MonoBehaviour {
             xa = -1f * speed;
         }
 
-        if (xa != 0 || ya != 0) {
-            tempPos.x = myTransform.position.x + xa * Time.deltaTime;
-            tempPos.y = myTransform.position.y + ya * Time.deltaTime;
-            body.MovePosition(tempPos);
-        }        
+
+
+
+        Vector2 movement = new Vector2(xa, ya);
+        body.velocity = movement * speed;
+        body.position = new Vector2
+        (
+            Mathf.Clamp(body.position.x, boundary.xMin, boundary.xMax),
+            Mathf.Clamp(body.position.y, boundary.yMin, boundary.yMax)
+        );
+        body.rotation = 0f;
+               
 	}
 }

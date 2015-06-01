@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{42C710CF-A082-23A9-C41F-76DA1F16AF08}</ProjectGuid>
+	<ProjectGuid>{F250E95E-35EC-F01C-D9A4-A6005D242F67}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -55,6 +55,7 @@
      <None Include="Assets\Tiled2Unity\Shaders\shaTiledMap.shader" />
      <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
      <None Include="Assets\Tiled2Unity\Textures\_ReadMe.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\test_map.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
      <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
  <Reference Include="UnityEngine.UI">

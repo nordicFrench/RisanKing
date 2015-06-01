@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CD1F8B4D-229A-2D17-4137-946EDF546583}</ProjectGuid>
+    <ProjectGuid>{CDC25BFB-0BBD-E031-99EB-7CD0771BB717}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace></RootNamespace>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -101,9 +101,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="UnityVS.Risanking.CSharp.csproj">
-      <Project>{41A81ED9-9B2F-E25B-CB5D-90B76A4DF8AD}</Project>
-      <Name>UnityVS.Risanking.CSharp</Name>
+    <ProjectReference Include="UnityVS.RisanKing.CSharp.csproj">
+      <Project>{954C3954-291A-B4D6-BE7E-114919B6C681}</Project>
+      <Name>UnityVS.RisanKing.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -123,6 +123,7 @@
   <ItemGroup>
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Imported\minimalist-collision.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\test_map.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Prefabs\_ReadMe.txt" />
