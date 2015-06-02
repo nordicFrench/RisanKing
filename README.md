@@ -10,7 +10,6 @@ kc/int/ is making a video game.
 * Game Theme - Historical. It takes place during the Vth century in Western Europe.
 * Intended audience - above 16 year old
 * Language - English
- 
 * Platform - it should be playable in a browser so that deployment of the game is very easy.
 * Game length - it should take at least 50 hours to finish through multiple playthrough
 
@@ -23,9 +22,11 @@ He has sacked countless cities and killed or raped most of their inhabitants.
  
 Is there some one in the world able to bring together an alliance of powers strong enough to stop his advance westward?
  
-You are [someone who will become very important for the events about to occur] and after the tragedy [maybe your mother and father were killed by the Huns], you sweared to do everything in your power to ensure the safety of your family and your land.
+You are Merovech and everyone you know and love have their life threatened by the advance of the Huns. Already some powerful kingdoms fell before of them and you won't be one of them if Odin allows it. You swear to do everything in your power to ensure the safety of your family, your people and your land.
 
-But the only way you can do so is by stopping Attila the Hun. You will have to travel Europe to bring together an alliance to defeat him.
+But the only way you can do so is by stopping Attila the Hun. You will have to travel Europe to bring together an alliance strong enough to defeat him and his allies.
+ 
+You'll have to talk with old enemies like the Romans and dangerous allies like the Wisigoths in order to achieve that.
  
 Good ending:
 
