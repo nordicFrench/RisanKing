@@ -48,7 +48,7 @@ After that, you might be given push access to the repository if you have somethi
  
 ## IV) Team
 
-* Artists -> graphic artist (KatynKurwa), sound sfx artist (Turk), music artist, story writer (trasgo), dialogue writer (benis)
+* Artists -> graphic artist (KatynKurwa), sound sfx artist (Turk), music artist, story writer (trasgo, Fraxinicus), dialogue writer (benis)
 * Developers -> lead developer (fennheim), ai programmer, gameplay programmer (alcatah), ui programmer, game logic programmer (carn)
 * Designers -> game designer, level designer (Bbeernd)
 * Managers -> project manager (riba), producer (nordicFrench)
