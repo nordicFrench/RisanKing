@@ -56,14 +56,20 @@ After that, you might be given push access to the repository if you have somethi
 * Marketing -> PR
  
  
-## V) Free Assets
+## V) Graphical Assets
+
 
 Some free to use assets are available if needed.
+We have gathered some sprites and tiles and KatynKurwa is redrawing them in a better, more mature style.
 
-We have gathered some sprites, tiles and a bit of a soundtrack.
+## VI) Musical Assets
+
+There is a free to use soudtrack available on this soudcloud (look for the #film ones):
+
+https://soundcloud.com/sparling-soundworks
+
  
- 
-## VI) FAQ
+## VII) FAQ
 
 * 1. Are there various key locations you need to reach to secure the alliances?
 
@@ -94,3 +100,17 @@ What's really interesting about the time is the interplay of different worlds. T
 * 7. What combat system will be used?
 
 This will be detailed in the game design but an interesting opportunity might be to use the D&D D20 system which is licensed under the Open Gaming License.
+
+* 8. Are the Huns really less civilized?
+
+There should definitely be an option to consider the steppe ways superior to the "civilized" ways. There is no reason why the Mongols/Huns should be stupid Barbarians that only rape and pillage while Romans are super civilized, educated intelligent men. The reality was simply different - for example, tribal leaders could try to teach you about tengri stuff or why they think life in a city is wrong for humanity, what you get by allying/aligning with them (stability, loyality, order - just like the Mongols provided after they conquered) that kinda stuff.
+
+* 9. How different are the three big civilizations?
+
+The game is centered around three conflicting civilizations that are totally differnt.
+
+The first one are the Old Romans - they are imperialistic, militarist slavers and elitists. They want to bring Rome back to the days of Cassar in which Rome's purpose was for wars to be fought for glory and fame and make one's own patrician family as famous and successful as possbile.
+
+Then we have new Rome, which is the Christian/Byzantine Rome. This Rome is more focuesd on building churches, on providing more welfare for its citizens, abandoning the old slaver and imperialistic ways. Of course, this has the disadvantage of being threatened by foreign tribes.
+
+Third civilization are the tribals, the Mongols, the nomads. They frown upon settling upon lands, they don't believe in cities, in settlements. They beleive in discipline, loyality, you-cratch-my-back-I-cratch-yours types of transactions between tribes, they hate Rule of Law and don't understand it, they prefer the rule of the strong and honoring their superiors and elders.
