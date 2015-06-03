@@ -16,24 +16,18 @@ kc/int/ is making a video game.
 
 ## II) Historic Plot proposal
 
-Damnation has a name, he is called Attila, the scourge of God. He rides west from city to city and behind him the grass don't grow again.
 
-He has sacked countless cities and killed or raped most of their inhabitants.
- 
-Is there some one in the world able to bring together an alliance of powers strong enough to stop his advance westward?
- 
-You are Merovech and everyone you know and love have their life threatened by the advance of the Huns. Already some powerful kingdoms fell before of them and you won't be one of them if Odin allows it. You swear to do everything in your power to ensure the safety of your family, your people and your land.
+Intro:
+You're Merovech, the youngest son of the Frankish king Chlodio the Longhair. You start off in Ravenna in 450, where you're a Frankish envoy to Rome but really just a glorified hostage handed over by your dad after he got rekt by the great Aetius in 448. There you meet the main Roman protagonists, witness all the court intrigue that leads up to Attila's invasion. By the time you hear the news of your father's death, you already know Attila is coming.
 
-But the only way you can do so is by stopping Attila the Hun. You will have to travel Europe to bring together an alliance strong enough to defeat him and his allies.
- 
-You'll have to talk with old enemies like the Romans and dangerous allies like the Wisigoths in order to achieve that.
- 
-Good ending:
+First Act:
+Surprisingly Aetius calls you to Northern Gaul. You make the voyage, and once there he asks you to become king of the Franks. With his help, you must prove yourself to the Franks and supplant your elder brother(s).
 
-You've defeated Attila and his allies thanks to the combined power of the Alains, the Romans, the Franks and the Wisigoths.
+Second Act:
+You're king of the Franks, but Attila has just crossed the Rhine, and the Frankish settlements are helpless against his horde as is the rest of Northern Gaul. Might have to diminish the role played by Aetius here a little if we want Merovech to be the hero, so he could be too old or forced back to Ravenna by Valentinian (maybe change the chronology a little and have Valentinian murder him now), forcing Merovech to take charge, or perhaps they agreed Merovech would be the best bridge between Romans and Germanics. Either way, he travels across Gaul to forge an alliance with Burgundians, Alans, Saxons, Armorican Celts, and Visigoths (those would have to be the hardest, they're the most dangerous enemies past and future), maybe others too like Vandals (who would have to be total assholes). All the while Attila sacks city after city and you lose more and more of your home map. With your alliance ready, you optionally help in whatever magic happened with Genevieve in Paris, leading the Huns right where you want them East of Orléans. Battle, and victory or defeat depending on previous quest outcomes.
 
-You come back happier than ever to live in peace with your beloved wife. You give birth to a son who will become the king of the Franks and rise your name to that of one of the mightiest dynasty to ever rule over western Europe.
- 
+Third Act:
+Attila is defeated but alive, and marches to Italy. But your alliance disbands as Gaul is no longer threatened, and your forces are no longer enough to defeat him in battle again, so if you want to stop him from conquering Italy you must find another way to kill him.
  
 ## III) How to join the project
 
